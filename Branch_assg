@@ -1,0 +1,4 @@
+whoami
+date
+pwd
+ps -ef
