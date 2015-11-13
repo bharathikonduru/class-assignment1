@@ -1,3 +1,4 @@
 pwd
 whoami
 ps -ef |grep ke
+test
